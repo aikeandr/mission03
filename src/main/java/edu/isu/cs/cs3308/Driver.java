@@ -2,8 +2,9 @@ package edu.isu.cs.cs3308;
 
 import edu.isu.cs.cs3308.structures.Queue;
 import edu.isu.cs.cs3308.structures.Stack;
-import edu.isu.cs.cs3308.structures.impl.LinkedQueue;
-import edu.isu.cs.cs3308.structures.impl.LinkedStack;
+import edu.isu.cs.cs3308.structures.LinkedQueue;
+import edu.isu.cs.cs3308.structures.LinkedStack;
+
 import java.util.Random;
 
 /**
